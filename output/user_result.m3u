@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-01-12 18:29:26" tvg-logo="https://live.fanmingming.com/tv/2025-01-12 18:29:26.png" group-title="更新时间",2025-01-12 18:29:26
+#EXTINF:-1 tvg-name="2025-01-13 06:21:21" tvg-logo="https://live.fanmingming.com/tv/2025-01-13 06:21:21.png" group-title="更新时间",2025-01-13 06:21:21
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -42,7 +42,7 @@ http://221.233.192.152:1111/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4
 http://220.249.114.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4
-http://106.53.99.30/dl/bjyd.php?id=3$订阅源|1920x1080
+http://106.53.99.30/dl/bjyd.php?id=3$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4
 http://117.27.190.42:9998/tsfile/live/23235_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5
@@ -136,7 +136,7 @@ http://221.233.192.152:1111/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11
 http://61.136.172.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11
-http://106.53.99.30/dl/bjyd.php?id=7$订阅源|1920x1080
+http://106.53.99.30/dl/bjyd.php?id=7$订阅源
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11
 http://111.61.236.247:9081/hls/11/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12
@@ -216,7 +216,7 @@ http://114.252.236.205:8000/rtp/239.3.1.151:8144$组播源|1920x1080
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17
-http://106.53.99.30/dl/bjyd.php?id=12$订阅源|1920x1080
+http://106.53.99.30/dl/bjyd.php?id=12$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://123.138.22.30:9901/tsfile/live/0017_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17

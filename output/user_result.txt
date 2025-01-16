@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-16 06:21:37,url
+2025-01-16 18:30:44,url
 央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://221.233.192.152:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -21,7 +21,7 @@ CCTV-4,http://113.57.20.158:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&a
 CCTV-4,http://113.57.93.165:9900/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-4,http://221.233.192.152:1111/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-4,http://220.249.114.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CCTV-4,http://106.53.99.30/dl/bjyd.php?id=3$订阅源
+CCTV-4,http://106.53.99.30/dl/bjyd.php?id=3$订阅源|1920x1080
 CCTV-4,http://117.27.190.42:9998/tsfile/live/23235_1.m3u8$订阅源
 CCTV-5,http://113.57.93.165:9900/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -68,7 +68,7 @@ CCTV-11,http://113.57.20.158:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&
 CCTV-11,http://220.249.114.102:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-11,http://221.233.192.152:1111/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CCTV-11,http://106.53.99.30/dl/bjyd.php?id=7$订阅源
+CCTV-11,http://106.53.99.30/dl/bjyd.php?id=7$订阅源|1920x1080
 CCTV-11,http://111.61.236.247:9081/hls/11/index.m3u8$订阅源
 CCTV-12,http://61.136.172.236:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-12,http://221.233.192.152:1111/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -105,7 +105,7 @@ CCTV-16,http://120.55.49.231:6344/rtp/233.50.201.192:5140$浙江电信组播源
 CCTV-17,http://113.57.20.158:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-17,http://58.57.40.22:9901/tsfile/live/0019_1.m3u8$订阅源
 CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
-CCTV-17,http://106.53.99.30/dl/bjyd.php?id=12$订阅源
+CCTV-17,http://106.53.99.30/dl/bjyd.php?id=12$订阅源|1920x1080
 CCTV-17,http://123.138.22.30:9901/tsfile/live/0017_1.m3u8$订阅源
 CCTV-17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3$订阅源
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源|1920x1080

@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-25 18:28:58,url
+2025-01-26 06:21:56,url
 央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -29,8 +29,8 @@ CCTV-4,http://124.128.73.58:9901/tsfile/live/0004_1.m3u8?key=txiptv$订阅源
 CCTV-4,http://58.17.116.69:9908/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-4,http://61.156.228.12:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-4,http://106.53.99.30/dl/bjyd.php?id=3$订阅源|1920x1080
-CCTV-4,http://117.27.190.42:9998/tsfile/live/23235_1.m3u8$订阅源
 CCTV-4,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8$订阅源
+CCTV-4,http://61.138.128.226:19901/tsfile/live/0004_1.m3u8$订阅源
 CCTV-5,http://113.57.93.165:9900/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5,http://220.249.114.102:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -41,7 +41,7 @@ CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8$订阅源
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5+,http://220.249.114.102:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5+,http://123.130.84.106:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-5+,http://125.82.171.210:8888/udp/235.254.199.121:7980$订阅源
+CCTV-5+,http://125.82.171.210:8888/udp/235.254.199.121:7980$订阅源|1920x1080
 CCTV-5+,http://218.89.240.144:59901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源|1920x1080
 CCTV-5+,http://58.17.116.69:9908/tsfile/live/0001_6.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -122,18 +122,17 @@ CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv$订阅源
 CCTV-15,http://58.220.219.14:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-15,http://123.130.84.106:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-16,http://117.27.190.42:9998/tsfile/live/23249_1.m3u8?key=txiptv$订阅源
 CCTV-16,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$订阅源|1920x1080
 CCTV-16,http://58.17.116.69:9908/tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$订阅源|3840x2160
 CCTV-16,http://58.17.48.228:808/hls/25/index.m3u8$订阅源
-CCTV-16,http://117.27.190.42:9998/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-16,http://58.221.214.82:9901/tsfile/live/0002_2.m3u8$订阅源
 CCTV-16,http://123.113.187.204:8000/udp/239.3.1.184:8001$订阅源|1920x1080
 CCTV-16,http://123.113.187.204:8000/udp/239.3.1.183:8001$订阅源|1920x1080
+CCTV-16,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源
+CCTV-16,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=no$订阅源
 CCTV-16,http://120.55.49.231:6344/rtp/233.50.201.192:5140$浙江电信组播源
-CCTV-17,http://117.27.190.42:9998/tsfile/live/23247_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-17,http://123.130.84.106:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-17,http://110.80.17.38:9901/tsfile/live/0007_1.m3u8?key=txiptv$订阅源
 CCTV-17,http://58.17.116.69:9908/tsfile/live/0001_18.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -143,6 +142,7 @@ CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
 CCTV-17,http://106.53.99.30/dl/bjyd.php?id=12$订阅源|1920x1080
 CCTV-17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3$订阅源
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源|1920x1080
+CCTV-17,http://58.221.214.82:9901/tsfile/live/0003_2.m3u8$订阅源
 CETV1,http://120.55.49.231:6344/rtp/233.50.201.75:5140$浙江电信组播源
 CETV2,http://123.56.129.203:3743/rtp/225.1.8.193:4120$北京电信组播源
 CETV4,http://120.55.49.231:6344/rtp/233.50.200.162:5140$浙江电信组播源

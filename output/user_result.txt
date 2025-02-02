@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-02 06:21:32,url
+2025-02-02 18:28:33,url
 央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://113.57.20.158:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
